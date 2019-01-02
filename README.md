@@ -27,7 +27,7 @@ This document assumes you know:
 ### Install TensorFlow with pip
 [TensorFlow Official Installation Guide](https://www.tensorflow.org/install/pip)
 
-For beginners who currently don't have a CPU, installing TensorFlow for CPU is a good choice. You don't need a GPU to start using TensorFlow. Actually, CPU-only version is recommended for beginners.
+For beginners who currently don't have a GPU, installing TensorFlow for CPU is a good choice. You don't need a GPU to start using TensorFlow. Actually, CPU-only version is recommended for beginners.
 
 For students who have GPU at hand (I hope it's an Nvidia), I recommend the GPU version. [CUDA](https://developer.nvidia.com/cuda-downloads) needs to be installed before the GPU version of TensorFlow. Installing [CUDA](https://developer.nvidia.com/cuda-downloads), [cuDNN](https://developer.nvidia.com/cudnn), is another story (to be told in the future/upon request.) **If you want to install CUDA, make sure to check the CUDA version that TensorFlow supports. For example, the current stable TensorFlow (1.12 version) supports only CUDA 9.0 not CUDA 10.0.**
 
