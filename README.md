@@ -80,12 +80,10 @@ In the section "Convert the integers back to words", the first review printed sh
 
 #### [Tutorial link](https://www.tensorflow.org/tutorials/keras/basic_regression)
 
-##### Note 1: to show the plot created by seaborn
-`seaborn` is library based on matplotlib. So to show a plot created by seaborn, we need to:
-1. import matplotlib.pyplot as plt
-2. add plt.show() after seaborn creates a plot
+##### Note 1: show the plot created by seaborn
+`seaborn` is library based on `matplotlib`. So to show a plot created by `seaborn`, we need to:
+1. `import matplotlib.pyplot as plt`
+2. add `plt.show()` after `seaborn` creates a plot
 
 ##### Questions
 <div style="color: red">For students to add questions here.</div>
-
-
