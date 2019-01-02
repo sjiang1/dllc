@@ -35,7 +35,7 @@ For students who have GPU at hand (I hope it's an Nvidia), I recommend the GPU v
 ### PyCharm (optional)
 [PyCharm](https://www.jetbrains.com/pycharm/) is a Python IDE offered by [JetBrains](https://www.jetbrains.com). If you just started learning Python, I don't recommend using this IDE (and you can skip this section). But if you are already familiar with Python, this IDE can increase your productivity by highlighting your errors and autocompleting your code. A few extra notes:
 
-1. [JetBrains](https://www.jetbrains.com) offers educational discount. Check out [their educational licenses](https://www.jetbrains.com/student/) and you can access to almost all of their products.
+1. [JetBrains](https://www.jetbrains.com) offers educational discount. Check out [their educational licenses](https://www.jetbrains.com/student/) and you can access almost all of their products.
 2. [Guide for creating a python project](https://www.jetbrains.com/help/pycharm/creating-empty-project.html)
 3. [Guide for configuring the virtualenv environment](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html)
 4. [Guide for switching to **scientific mode**](https://www.jetbrains.com/help/pycharm/matplotlib-support.html#sm)
